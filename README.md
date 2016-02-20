@@ -11,4 +11,4 @@ This was just to test Firebase and React as I never used them.
 Yeah, I know it's horrible how I designed the React components :)
 
 ## Thanks
-Folder structure generated using: [React-6 Yeoman Generator](https://github.com/darklight721/generator-react-6)
+Folder structure generated using: [React-6 Yeoman Generator](https://github.com/darklight721/generator-react-6).
